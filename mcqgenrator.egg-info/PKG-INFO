@@ -3,8 +3,3 @@ Name: mcqgenrator
 Version: 0.0.1
 Author: KHERCHOUCHE-ANOUAR
 Author-email: kherchoucheanouar98@gmail.com
-Requires-Dist: openai
-Requires-Dist: langchain
-Requires-Dist: streamlit
-Requires-Dist: python-dotenv
-Requires-Dist: PyPDF2
